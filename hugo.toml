@@ -2,3 +2,8 @@ baseURL = 'https://blog.naochan.boo'
 languageCode = 'ja-jp'
 title = 'naochan.boo'
 theme = 'ananke'
+
+[services.disqus]
+  shortname = "naochan.disqus.com/embed.js"
+
+  
