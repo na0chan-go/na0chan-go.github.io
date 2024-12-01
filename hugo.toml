@@ -1,0 +1,4 @@
+baseURL = 'https://blog.naochan.boo'
+languageCode = 'ja-jp'
+title = 'なおちゃんブログ'
+theme = 'ananke'
