@@ -2,7 +2,7 @@
 title: 'こんにちは、なおちゃんです。'
 description:
 date: 2024-12-02T16:51:59+09:00
-image:
+image: 'flower.jpg'
 math:
 license:
 hidden: false
