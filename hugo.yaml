@@ -34,7 +34,7 @@ services:
     shortname: 'naochan.disqus.com'
   # GA Tracking ID
   googleAnalytics:
-    id:
+    id: G-BDWZGM53GE
 
 pagination:
   pagerSize: 3
