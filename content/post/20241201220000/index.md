@@ -6,8 +6,8 @@ image:
 math:
 license:
 hidden: false
-comments: true
-draft: true
+comments: false
+draft: false
 categories: ['その他']
 tags: ['日記']
 ---
