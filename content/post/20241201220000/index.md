@@ -1,5 +1,6 @@
 ---
 title: 'こんにちは、なおちゃんです。'
+slug: '20241201220000'
 description:
 date: 2024-12-01T16:51:59+09:00
 image: 'flower.jpg'

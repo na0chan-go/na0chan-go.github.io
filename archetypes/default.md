@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+slug: "{{ .Date | time.Format "20060102150405"}}"
 description: 
 date: {{ .Date }}
 image: 
