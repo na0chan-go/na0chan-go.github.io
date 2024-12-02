@@ -1,9 +1,16 @@
-+++
-date = '2024-12-01T20:54:04+09:00'
-draft = false
-title = 'こんにちは、なおちゃんです。'
-tags = ["その他"]
-+++
+---
+title: 'こんにちは、なおちゃんです。'
+description:
+date: 2024-12-02T16:51:59+09:00
+image:
+math:
+license:
+hidden: false
+comments: true
+draft: true
+categories: ['その他']
+tags: ['日記']
+---
 
 ## Introduction
 
