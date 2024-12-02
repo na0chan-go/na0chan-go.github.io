@@ -19,14 +19,14 @@ languages:
     weight: 1
     params:
       sidebar:
-        subtitle: ブログです
+        subtitle: 日々のあれこれを書きます
   en:
     languageName: English
     title: naochan.boo
     weight: 1
     params:
       sidebar:
-        subtitle: Blog
+        subtitle: Write about daily life.
 
 services:
   # Change it to your Disqus shortname before using
@@ -185,7 +185,7 @@ params:
     opengraph:
       enabled: false
       local: false
-      src:
+      src: img/avatar.jpg
 
   colorScheme:
     # Display toggle
@@ -207,12 +207,6 @@ menu:
   main: []
 
   social:
-    - identifier: github
-      name: GitHub
-      url:
-      params:
-        icon: brand-github
-
     - identifier: twitter
       name: Twitter
       url: https://x.com/sp1atoon3
