@@ -40,8 +40,8 @@ pagination:
   pagerSize: 3
 
 permalinks:
-  post: /:sections/:slug/
-  page: /:slug/
+  post: /:sections/:slug
+  page: /:slug
 
 params:
   mainSections:
