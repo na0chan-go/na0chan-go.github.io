@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on naochan.boo</title><link>https://blog.naochan.boo/tags/docker/</link><description>Recent content in Docker on naochan.boo</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>naochan</copyright><lastBuildDate>Wed, 15 Jan 2025 23:19:38 +0900</lastBuildDate><atom:link href="https://blog.naochan.boo/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>Docker Desktop for Macがマルウェア扱いされてしまう</title><link>https://blog.naochan.boo/post/20250115231938/</link><pubDate>Wed, 15 Jan 2025 23:19:38 +0900</pubDate><guid>https://blog.naochan.boo/post/20250115231938/</guid><description>&lt;img src="https://blog.naochan.boo/post/20250115231938/docker.png" alt="Featured image of post Docker Desktop for Macがマルウェア扱いされてしまう" />&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>久々に MacBookAir を開いたら、Docker Desktop がマルウェア扱いされてゴミ箱送りにされる現象が起きた。&lt;/p>
+&lt;p>X で検索してみるとどうやら自分だけではないみたい。&lt;/p>
+&lt;p>詳細は&lt;a class="link" href="https://www.docker.com/ja-jp/blog/incident-update-docker-desktop-for-mac/" target="_blank" rel="noopener"
+>こちら&lt;/a>&lt;/p>
+&lt;p>自分の場合、以下の手順で解消することができた。&lt;/p>
+&lt;ol>
+&lt;li>ゴミ箱内の Docker.app を削除する&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.docker.com/ja-jp/products/docker-desktop/" target="_blank" rel="noopener"
+>Docker Desktop&lt;/a>公式サイトから dmg をダウンロードする&lt;/li>
+&lt;li>ダウンロードした dmg を開き、Docker.app をドラッグ&amp;amp;ドロップして Applications に格納する&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/677dd6e2108ba105c8d0258c" target="_blank" rel="noopener"
+>こちら&lt;/a>の Run the following commands に記載されているコマンドを実行する&lt;/li>
+&lt;li>Docker Desktop を再起動する&lt;/li>
+&lt;/ol>
+&lt;p>同じ現象が起きた方に役立ててほしい。&lt;/p></description></item></channel></rss>
